@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**amalinowski0/amalinowski0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Adrian, FullStack Developer (frontend focused)
+I enjoy learinng new technologies and problem solving in general. Currently I'm looking for a job as a web developer either in front or back end.
 
-Here are some ideas to get you started:
+## My Skills :mortar_board:
+### Frontend
+* Javascript (ES6+)
+* React
+* Redux
+* Styled Components
+* AJAX
+* CSS 3
+* Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+* C#
+* ASP .NET
+* Entity Framework
+* MS SQL Server for database usage
+
+## What I want to learn in the near future / or am currently learning :bookmark_tabs: 
+* React Native
+* GraphQL
+* Typescript
+
