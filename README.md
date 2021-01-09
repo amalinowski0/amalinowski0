@@ -23,4 +23,5 @@ I enjoy learinng new technologies and problem solving in general. Currently I'm 
 * React Native
 * GraphQL
 * Typescript
+* Jest
 
